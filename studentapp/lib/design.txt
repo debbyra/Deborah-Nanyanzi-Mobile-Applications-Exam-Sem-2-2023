@@ -1,0 +1,6 @@
+Brief explanation of the design choices
+
+// Usage of rows and columns for better alignment 
+// Center has been used for center alignment
+// Icons and buttons for navigation 
+// used amber and black as the primary colours for better contrast plus white and purple as a secondary colour.
